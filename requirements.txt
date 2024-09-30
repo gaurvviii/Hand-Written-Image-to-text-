@@ -1,0 +1,14 @@
+opencv-python
+pytesseract
+scikit-learn
+sentence-transformers
+jiwer
+datasets
+evaluate
+accelerate
+matplotlib
+protobuf==3.20.1
+tensorboard
+torch
+torchvision
+tqdm
